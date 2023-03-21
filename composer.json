@@ -1,0 +1,14 @@
+{
+    "name": "weilongyun17600779202/new01",
+    "description": "test01",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weilongyun",
+            "email": "weilongyun@360.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
